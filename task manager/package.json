@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "linq-to-typescript": "^10.0.0",
+    "pkg": "^5.8.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "newpkg",
+  "version": "1.0.0",
+  "main": "./controller/Taskmanager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
